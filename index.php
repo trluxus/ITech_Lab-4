@@ -1,4 +1,3 @@
-
 <?php
     $file_name = "text.txt";
 
